@@ -1,6 +1,17 @@
-- 👋 Hi, I’m @marcelolavor
-- 👀 I’m interested in agentic-workflow patterns, LLMs/SMLs, futher ML & AI solutions, Daps & blockchain.
-- 📫 How to reach me marcelo.lavor@gmail.com
+# 👋 Hi, I’m @marcelolavor!
+
+Welcome to my profile! I'm passionate about technology and always looking to learn and share knowledge.
+
+## 🌟 Interests
+- **Agentic Workflow Patterns**
+- **Large Language Models (LLMs) and Specific Language Models (SMLs)**
+- **Advanced Machine Learning and AI Solutions**
+- **Decentralization and Blockchain (Dapps)**
+
+## 📫 Let's connect!
+You can reach me at: [marcelo.lavor@gmail.com](mailto:marcelo.lavor@gmail.com)
+
+Feel free to explore my repositories and contribute!
 
 <!---
 marcelolavor/marcelolavor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

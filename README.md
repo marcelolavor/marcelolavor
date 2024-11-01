@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @marcelolavor
-- 👀 I’m interested in Devops, analytics, ML, AI, Daps, blockchain, etc
-- 🌱 I’m currently learning MLOps
-- 💞️ I’m looking to collaborate on Web3 projects
+- 👀 I’m interested in agentic-workflow patterns, LLMs/SMLs, futher ML & AI solutions, Daps & blockchain.
 - 📫 How to reach me marcelo.lavor@gmail.com
 
 <!---
